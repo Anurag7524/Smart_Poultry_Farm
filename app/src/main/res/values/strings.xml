@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Test</string>
+    <string name="light">Lights</string>
+    <string name="Fan">Fans</string>
+    <string name="Heater">Heaters</string>
+    <string name="Water">Pump</string>
+    <string name="TemperatureInfo">The critical temperature for layers is 20°C. For every 1°C lower than 20°C, the birds require an extra 1.5 g of feed per day. The most efficient temperatures for layers are between 20 – 24°C. When temperatures rise above 24°C, shell quality and egg weight will reduce. The critical temperature for broilers and rearing birds is highly dependent on age.</string>
+    <string name="HumidityInfo">Relative humidity in poultry houses is measured to determine whether respiratory disorders are due to too high or too low relative humidity. If the relative humidity is too high, condensation can accumulate in the house. This has a direct effect on the growth of micro-organisms.</string>
+    <string name="AQIInfo"><![CDATA[CO\t0 CO2\t<2500 ppm = 0.25 VOL% NH3\t<25 ppm = 0.0025 VOL% H2S\t0.0 SO2\t0.0]]></string>
+    <string name="AQInfo"><![CDATA[CO\t0 CO2\t<2500 ppm = 0.25 VOL% NH3\t<25 ppm = 0.0025 VOL% H2S\t0.0 SO2\t0.0]]></string>
+    <string name="AQIInfo2">CO2 at concentrations between 0.1-0.3% O is ideal for poultry and up to 2% is safe for human beings. The concentration of O2 usually varies between 19- 21 percent while its concentration below 6 % is lethal for birds as well as humans.</string>
+</resources>
